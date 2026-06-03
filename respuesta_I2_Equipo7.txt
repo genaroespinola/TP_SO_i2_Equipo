@@ -1,3 +1,9 @@
 Joaquin Corazza
 Genaro Espinola
 German Ewens Lairet
+
+a)
+b)
+c) Solo puede sincronizar su fork con el repositorio original
+d) No, cuando se actualiza un fork git intenta conservar los cambios propios
+e)
